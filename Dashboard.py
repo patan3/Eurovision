@@ -7,6 +7,8 @@ import plotly.graph_objects as go
 from pylab import *
 
 st.set_page_config(page_title='Eurovision 2021 Explorer ', page_icon=':flag-eu:', layout='wide', initial_sidebar_state='auto')
+st.image("https://pix.eurovisionworld.com/grafik/2021/logo/eurovision-2021-rotterdam.jpg")
+
 
 st.markdown('# Eurovision 2021 Explorer\n This web application illustrates several interactive graphs of the Eurovision 2021.\n Python and Streamlit are used, data is scraped from [Wikipedia](https://en.wikipedia.org/wiki/Eurovision_Song_Contest_2021) and pre-processed with Pandas and NumPy.')
 st.markdown('You can choose your country of interest and the vote type at any time by using the widgets in the sidebar.')
