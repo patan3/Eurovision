@@ -12,5 +12,5 @@ Please note that this is my first time using Streamlit. I took the opportunity t
 ## About me
 Please feel free to reach me out for any feedback or questions!
 
-[Linkedin](https://www.linkedin.com/in/angelopatane/)
+[Linkedin](https://www.linkedin.com/in/angelopatane/) \n
 angelpatane9@gmail.com
