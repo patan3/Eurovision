@@ -27,9 +27,9 @@ elif vote == 'Jury':
 @st.cache
 def load_data(boole):
     if boole == True:
-        data = pd.read_csv(r'https://raw.githubusercontent.com/patan3/Eurovision/main/df_televoting.csv')
+        data = pd.read_csv(r'https://raw.githubusercontent.com/patan3/Eurovision/master/df_televoting.csv')
     else:
-        data = pd.read_csv(r'https://raw.githubusercontent.com/patan3/Eurovision/main/df_jury.csv')
+        data = pd.read_csv(r'https://raw.githubusercontent.com/patan3/Eurovision/master/df_jury.csv')
     return data
 
 
