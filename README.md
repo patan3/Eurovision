@@ -15,3 +15,6 @@ Please feel free to reach me out for any feedback or questions!
 [Linkedin](https://www.linkedin.com/in/angelopatane/) 
 
 angelpatane9@gmail.com
+
+## License
+CC BY-NC-SA
