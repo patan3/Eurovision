@@ -47,7 +47,7 @@ st.sidebar.markdown('# Select Contestant')
 nation = st.sidebar.selectbox('Contestant', data['Contestant'])
 
 st.sidebar.markdown(" # About me ")
-st.sidebar.markdown("Angelo Patane'  \n angelpatane9@gmail.com")
+st.sidebar.markdown("angelpatane9@gmail.com")
 st.sidebar.markdown("[Linkedin](https://www.linkedin.com/in/angelopatane/)    \n [Twitter](https://twitter.com/angel_patane3)")
 st.sidebar.markdown("# Support me ")
 st.sidebar.markdown("[Ko-fi](https://ko-fi.com/pata3)")               
