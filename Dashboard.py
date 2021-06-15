@@ -46,7 +46,7 @@ df_votes['Televoting score'] = df_votes['Total score'] - pd.to_numeric(df_votes[
 st.sidebar.markdown('# Select Contestant')
 nation = st.sidebar.selectbox('Contestant', data['Contestant'])
 
-st.sidebar.markdown(" # About the Author ")
+st.sidebar.markdown(" # About me ")
 st.sidebar.markdown("Angelo Patane'  \n angelpatane9@gmail.com")
 st.sidebar.markdown("[Linkedin](https://www.linkedin.com/in/angelopatane/)    \n [Twitter](https://twitter.com/angel_patane3)")
 st.sidebar.markdown("# Support me ")
